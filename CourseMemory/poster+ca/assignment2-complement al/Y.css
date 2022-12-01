@@ -1,0 +1,29 @@
+.y01 {
+    width: 0;
+    height: 0;
+    left: 30px;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-top: 150px solid rgb(0, 0, 0);
+    position: absolute;
+}
+
+.y02 {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 120px solid rgb(255, 255, 255);
+    bottom: 150px;
+    right: 50px;
+    position: relative;
+}
+
+.y03 {
+    width: 10px;
+    height: 120px;
+    top: 10px;
+    right: 5px;
+    background-color: black;
+    position: relative;
+}

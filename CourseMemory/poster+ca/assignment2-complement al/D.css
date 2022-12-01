@@ -1,0 +1,18 @@
+.d01 {
+    height: 210px;
+    width: 120px;
+    border: 20px solid rgb(1, 0, 0);
+    border-top-right-radius: 30%;
+    border-bottom-right-radius: 30%;
+    position: relative;
+}
+
+.d02 {
+    height: 160px;
+    width: 85px;
+    left: 40px;
+    border-top-right-radius: 30%;
+    border-bottom-right-radius: 30%;
+    background-color: rgb(49, 40, 40);
+    position: relative;
+}

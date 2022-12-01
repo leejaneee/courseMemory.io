@@ -1,0 +1,19 @@
+.o01 {
+    top: 20px;
+    width: 160px;
+    height: 160px;
+    border: 20px solid rgb(0, 0, 0);
+    border-radius: 100px;
+    position: absolute;
+}
+
+.o02 {
+    left: 10px;
+    top: -9px;
+    width: 165px;
+    height: 160px;
+    border-radius: 50%;
+    background-color: transparent;
+    box-shadow: -15px 10px 0 0 rgb(49, 40, 40);
+    position: relative;
+}

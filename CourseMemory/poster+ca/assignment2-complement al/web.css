@@ -1,0 +1,156 @@
+span.cat audio {
+    float: left;
+}
+
+span.cat img:hover {
+    transform: rotate(15deg);
+    background-color: brown;
+}
+
+span.cat img {
+    width: 100px;
+    height: 150px;
+    padding: 20px;
+    background-color: rgb(247, 153, 13);
+    margin: 0 auto;
+}
+
+.painting {
+    height: 500px;
+    width: 500px;
+    background-color: pink;
+}
+
+body {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../imgforposter/background.jpg");
+    background-attachment: fixed;
+}
+
+div.painting {
+    width: 300px;
+    height: 450px;
+    background-image: url("../imgforposter/painting.png");
+    background-size: contain;
+    margin: 0 auto;
+    position: relative;
+    animation: mymove 2s infinite;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+}
+
+div.painting:hover {
+    width: 300px;
+    height: 450px;
+    background-size: contain;
+    margin: 0 auto;
+    position: relative;
+    background-image: url("../imgforposter/cat.jpg");
+    display: block;
+}
+
+div.painting01 {
+    width: 200px;
+    height: 350px;
+    background-image: url("../imgforposter/painting.png");
+    background-size: contain;
+    margin: 0 auto;
+    animation: mymove01 2s infinite;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+div.painting01:hover {
+    width: 200px;
+    height: 350px;
+    background-size: contain;
+    margin: 0 auto;
+    background-image: url("../imgforposter/11.png");
+    display: block;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+div.painting02 {
+    width: 200px;
+    height: 350px;
+    background-image: url("../imgforposter/painting.png");
+    background-size: contain;
+    margin: 0 auto;
+    animation: mymove02 2s infinite;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+div.painting02:hover {
+    width: 200px;
+    height: 350px;
+    background-size: contain;
+    margin: 0 auto;
+    background-image: url("../imgforposter/11.png");
+    display: block;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+.letter:hover {
+    transform: rotate(15deg);
+}
+
+@keyframes mymove {
+    0% {
+        left: 500px;
+        top: -800px;
+    }
+    50% {
+        top: -200px;
+    }
+    100% {
+        top: -800px;
+        left: 500px;
+    }
+}
+
+@keyframes mymove01 {
+    0% {
+        left: 100px;
+        top: 0px;
+    }
+    25% {
+        left: 300px;
+        top: 0px;
+    }
+    50% {
+        left: 500px;
+        top: 300px;
+    }
+    75% {
+        left: 800px;
+        top: 500px;
+    }
+    100% {
+        left: 100px;
+        top: 100px;
+    }
+}
+
+@keyframes mymove02 {
+    0% {
+        left: 300px;
+        top: 200px;
+    }
+    50% {
+        left: 500px;
+        top: 700px;
+    }
+    100% {
+        left: 900px;
+        top: 500px;
+    }
+}

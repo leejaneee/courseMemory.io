@@ -1,0 +1,29 @@
+.e01 {
+    height: 250px;
+    width: 200px;
+}
+
+.e02 {
+    height: 180px;
+    width: 130px;
+    border-left: 20px solid rgb(49, 40, 40);
+    border-top: 40px solid rgb(0, 0, 0);
+    border-bottom: 30px solid rgb(0, 0, 0);
+    position: relative;
+}
+
+.e03 {
+    top: 50px;
+    height: 70px;
+    width: 130px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+}
+
+.e04 {
+    top: 25px;
+    height: 20px;
+    width: 130px;
+    background-color: rgb(49, 40, 40);
+    position: relative;
+}

@@ -1,0 +1,29 @@
+.q01 {
+    top: 20px;
+    width: 160px;
+    height: 160px;
+    border: 20px solid rgb(0, 0, 0);
+    border-radius: 100px;
+    position: absolute;
+}
+
+.q02 {
+    left: 20px;
+    top: px;
+    width: 150px;
+    height: 160px;
+    border-radius: 50%;
+    background-color: rgb(49, 40, 40);
+    position: relative;
+}
+
+.q03 {
+    height: 60px;
+    width: 20px;
+    top: 150px;
+    left: 120px;
+    background-color: rgb(49, 40, 40);
+    transform: rotate(330deg);
+    position: relative;
+    border-radius: 60%
+}

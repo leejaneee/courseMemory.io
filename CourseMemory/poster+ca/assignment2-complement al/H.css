@@ -1,0 +1,38 @@
+.h01 {
+    height: 250px;
+    width: 200px;
+}
+
+.h02 {
+    height: 250px;
+    width: 140px;
+    border-left: 20px solid black;
+    border-right: 20px solid black;
+    position: relative;
+}
+
+.h03 {
+    height: 180px;
+    width: 20px;
+    transform: rotate(90deg);
+    left: 60px;
+    top: 20px;
+    background-color: black;
+    position: relative;
+}
+
+.h04 {
+    height: 150px;
+    width: 60px;
+    left: -100px;
+    background-color: rgb(49, 40, 40);
+    position: relative;
+}
+
+.h05 {
+    height: 150px;
+    width: 110px;
+    left: 140px;
+    background-color: rgb(49, 40, 40);
+    position: relative;
+}

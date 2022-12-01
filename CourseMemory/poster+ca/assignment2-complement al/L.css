@@ -1,0 +1,14 @@
+.l01 {
+    height: 230px;
+    width: 150px;
+    border-left: 20px solid black;
+    border-bottom: 20px solid rgb(49, 40, 40);
+}
+
+.l02 {
+    height: 200px;
+    width: 80px;
+    left: 10px;
+    background-color: rgb(49, 40, 40);
+    position: relative;
+}

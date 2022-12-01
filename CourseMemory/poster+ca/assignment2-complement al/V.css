@@ -1,0 +1,39 @@
+.v01 {
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-top: 250px solid rgb(0, 0, 0);
+}
+
+.v02 {
+    width: 0;
+    height: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-top: 200px solid rgb(255, 255, 255);
+    bottom: 250px;
+    right: 70px;
+    position: relative;
+}
+
+.v03 {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 60px solid transparent;
+    border-top: 150px solid rgb(49, 40, 40);
+    bottom: 200px;
+    right: 32px;
+    position: relative;
+}
+
+.y04 {
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-top: 70px solid rgb(49, 40, 40);
+    left: 95px;
+    position: relative;
+}

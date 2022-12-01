@@ -1,0 +1,20 @@
+.i01 {
+    height: 250px;
+    width: 200px;
+}
+
+.i02 {
+    height: 250px;
+    width: 20px;
+    left: 90px;
+    background-color: black;
+    position: relative;
+}
+
+.i03 {
+    height: 130px;
+    width: 30px;
+    left: 20px;
+    background-color: rgb(49, 40, 40);
+    position: relative;
+}

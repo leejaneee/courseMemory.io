@@ -1,0 +1,44 @@
+.c01 {
+    width: 200px;
+    height: 250px;
+}
+
+.c02 {
+    width: 200px;
+    height: 250px;
+    background: rgb(0, 0, 0);
+    border-radius: 40%;
+    position: absolute;
+}
+
+.c03 {
+    top: 15px;
+    left: 20px;
+    width: 180px;
+    height: 220px;
+    background: rgb(255, 255, 255);
+    border-radius: 40%;
+    position: relative;
+}
+
+.c04 {
+    top: -15px;
+    left: 150px;
+    width: 30px;
+    height: 250px;
+    background: rgb(255, 255, 255);
+    position: relative;
+}
+
+.c05 {
+    top: 15px;
+    left: -153px;
+    width: 160px;
+    height: 200px;
+    background: rgb(49, 40, 40);
+    border-top-right-radius: 25%;
+    border-top-left-radius: 45%;
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+    position: absolute;
+}

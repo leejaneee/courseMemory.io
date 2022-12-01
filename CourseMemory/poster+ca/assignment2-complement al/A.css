@@ -1,0 +1,57 @@
+.letter-a {
+    height: 250px;
+    width: 200px;
+}
+
+.tri01-a {
+    color: rgb(0, 0, 0);
+    border-bottom: 250px solid;
+    border-left: 91px solid transparent;
+    border-right: 91px solid transparent;
+    height: 0;
+    width: 20px;
+    border-radius: 15%;
+}
+
+.tri02-a {
+    border-bottom: 100px solid rgb(241, 209, 209);
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    left: 61px;
+    top: 50px;
+    height: 0;
+    width: 15px;
+    border-radius: 20%;
+    position: absolute;
+}
+
+.tri03-a {
+    border-bottom: 60px solid rgb(241, 209, 209);
+    border-left: 22px solid transparent;
+    border-right: 22px solid transparent;
+    left: 25px;
+    top: 190px;
+    width: 110px;
+    position: absolute;
+}
+
+.tri04-a {
+    top: 50px;
+    left: 77px;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 100px solid rgb(49, 40, 40);
+    border-bottom-right-radius: 20%;
+    position: absolute;
+}
+
+.tri05-a {
+    top: 189px;
+    left: 128px;
+    width: 3px;
+    border-left: 27px solid transparent;
+    border-right: 27px solid transparent;
+    border-bottom: 60px solid rgb(49, 40, 40);
+    position: absolute;
+    border-radius: 15%;
+}

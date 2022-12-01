@@ -1,0 +1,21 @@
+.t01 {
+    height: 250px;
+    width: 200px;
+    border-top: 20px solid black;
+}
+
+.t02 {
+    height: 180px;
+    width: 80px;
+    left: 60px;
+    background-color: rgb(49, 40, 40);
+    position: relative;
+}
+
+.t03 {
+    height: 230px;
+    width: 200px;
+    left: 30px;
+    border-left: 20px solid black;
+    position: relative;
+}

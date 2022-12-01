@@ -1,0 +1,29 @@
+.z01 {
+    height: 210px;
+    width: 170px;
+    left: 20px;
+    border-top: 20px solid black;
+    border-bottom: 20px solid black;
+    border-radius: 5%;
+    position: absolute;
+}
+
+.z02 {
+    height: 200px;
+    width: 20px;
+    left: 80px;
+    top: 5px;
+    background-color: black;
+    transform: skew(-35deg);
+    border-radius: 20%;
+    position: relative;
+}
+
+.z03 {
+    height: 150px;
+    width: 80px;
+    background-color: rgb(49, 40, 40);
+    right: 30px;
+    top: 30px;
+    position: relative;
+}

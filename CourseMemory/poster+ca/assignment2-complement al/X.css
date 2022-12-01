@@ -1,0 +1,38 @@
+.x01 {
+    height: 250px;
+    width: 20px;
+    background-color: black;
+    transform: skew(30deg);
+    left: 85px;
+    position: absolute;
+}
+
+.x02 {
+    height: 250px;
+    width: 20px;
+    background-color: black;
+    transform: skew(-50deg);
+    position: absolute;
+}
+
+.x03 {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 60px solid transparent;
+    border-bottom: 100px solid rgb(49, 40, 40);
+    top: 150px;
+    left: 50px;
+    position: relative;
+}
+
+.x04 {
+    width: 0;
+    height: 0;
+    border-top: 84px solid transparent;
+    border-left: 50px solid rgb(49, 40, 40);
+    border-bottom: 80px solid transparent;
+    bottom: 110px;
+    right: 60px;
+    position: relative;
+}

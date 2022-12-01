@@ -1,0 +1,22 @@
+.j01 {
+    height: 250px;
+    width: 200px;
+}
+
+.j02 {
+    height: 230px;
+    width: 40px;
+    border-right: 20px solid black;
+    border-bottom: 20px solid black;
+    left: 70px;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    position: relative;
+}
+
+.j03 {
+    height: 150px;
+    width: 40px;
+    background-color: rgb(49, 40, 40);
+    position: relative;
+}

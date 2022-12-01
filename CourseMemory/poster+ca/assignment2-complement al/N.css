@@ -1,0 +1,38 @@
+.n01 {
+    height: 250px;
+    width: 160px;
+    border-left: 20px solid black;
+    border-right: 20px solid black;
+    position: absolute;
+}
+
+.n02 {
+    height: 295px;
+    width: 20px;
+    top: -23px;
+    left: 70px;
+    background-color: black;
+    border-radius: 20%;
+    transform: rotate(325deg);
+    position: relative;
+}
+
+.n03 {
+    width: 0;
+    height: 0;
+    top: 90px;
+    left: 63px;
+    border-bottom: 160px solid rgb(49, 40, 40);
+    border-right: 117px solid transparent;
+    position: relative;
+}
+
+.n04 {
+    width: 0;
+    height: 0;
+    top: -90px;
+    left: 7px;
+    border-top: 140px solid rgb(49, 40, 40);
+    border-left: 110px solid transparent;
+    position: relative;
+}

@@ -1,0 +1,21 @@
+.u01 {
+    height: 230px;
+    width: 120px;
+    left: 20px;
+    border-left: 20px solid black;
+    border-right: 20px solid black;
+    border-bottom: 20px solid black;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    position: relative;
+}
+
+.u02 {
+    height: 200px;
+    width: 80px;
+    left: 40px;
+    border-bottom-left-radius: 60%;
+    border-bottom-right-radius: 10%;
+    background-color: rgb(49, 40, 40);
+    position: relative;
+}
